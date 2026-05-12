@@ -35,4 +35,5 @@ My research focuses on computer vision and robotics, with an emphasis on object-
 
 ## Education
 
-* M.Sc., TU Darmstadt, 2026.
+* **Ph.D.**, TU Darmstadt, Apr. 2026 -
+* **M.Sc.**, TU Darmstadt, Oct. 2023 - Feb. 2026

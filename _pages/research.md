@@ -41,4 +41,5 @@ I am currently at the [Artificial Intelligence and Machine Learning (AI/ML) Lab]
 
 ## Education
 
-* M.Sc., TU Darmstadt, 2026.
+* **Ph.D.**, TU Darmstadt, Apr. 2026 -
+* **M.Sc.**, TU Darmstadt, Oct. 2023 - Feb. 2026
