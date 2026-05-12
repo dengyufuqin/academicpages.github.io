@@ -37,7 +37,7 @@ author:
     - label: "JAIF"
       url: "https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory"
   uri              :
-  email            :
+  email            : "yu.deng@tu-darmstadt.de"
 
   # Academic websites
   academia         : # URL
