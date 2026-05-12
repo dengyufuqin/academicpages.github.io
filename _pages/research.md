@@ -35,10 +35,6 @@ My work sits at the intersection of computer vision, robotics, interpretable lea
 
 I am currently at the [Artificial Intelligence and Machine Learning (AI/ML) Lab](https://www.aiml.informatik.tu-darmstadt.de/), [hessian.AI](https://hessian.ai/), and the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory) in Darmstadt. My supervisor is [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
 
-## Profiles
-
-* [Google Scholar](https://scholar.google.com/citations?user=AiBmRA4AAAAJ&hl=zh-CN)
-
 ## Education
 
 * **Ph.D.**, TU Darmstadt, Apr. 2026 -
