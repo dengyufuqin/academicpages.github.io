@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am **Yu Deng**, a researcher at the [Artificial Intelligence and Machine Learning (AI/ML) Lab](https://www.aiml.informatik.tu-darmstadt.de/), [hessian.AI](https://hessian.ai/), and the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory) in Darmstadt. My supervisor is [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
+I am **Yu Deng**, a Ph.D. candidate at the [Artificial Intelligence and Machine Learning (AI/ML) Lab](https://www.aiml.informatik.tu-darmstadt.de/), [hessian.AI](https://hessian.ai/), and the [JUPITER AI Factory (JAIF)](https://www.fz-juelich.de/en/jsc/jupiter/jaif-jupiter-ai-factory) in Darmstadt. My supervisor is [Prof. Dr. Kristian Kersting](https://www.aiml.informatik.tu-darmstadt.de/people/kkersting).
 
 My research focuses on computer vision and robotics, with an emphasis on object-centric 3D perception, geometrically consistent visuomotor control, and interpretable agentic systems.
 
