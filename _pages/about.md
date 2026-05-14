@@ -24,8 +24,8 @@ My research focuses on computer vision and robotics, with an emphasis on object-
 * **Nautilus: From One Prompt to Plug-and-Play Robot Learning.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.11665)]<br>
   Yufeng Jin<sup>*</sup>, Jianfei Guo<sup>*</sup>, Xiaogang Jia, <strong><u>Yu Deng</u></strong>, Zechu Li, Han Liu, Weiran Liao, Vignesh Prasad, Mathias Franzius, Gerhard Neumann, Georgia Chalvatzaki.
 
-* **Cognifold: Always-On Proactive Memory via Cognitive Folding.** *arXiv pending.*<br>
-  <strong><u>Yu Deng</u></strong> et al.
+* **Cognifold: Always-On Proactive Memory via Cognitive Folding.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.13438)]<br>
+  Suli Wang<sup>*</sup>, Yiqun Duan<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Rundong Zhao, Dai Shi, Xinliang Zhou.
 
 * **Kintsugi: Learning Policies by Repairing Executable Knowledge Bases.** *arXiv 2026.* [[arXiv](https://arxiv.org/abs/2605.09487)]<br>
   Teng Cao<sup>*</sup>, <strong><u>Yu Deng</u></strong><sup>*</sup>, Hikaru Shindo<sup>*</sup>, Quentin Delfosse, Lanxi Wen, Suli Wang, Jannis Blueml, Christopher Tauchmann, Kristian Kersting.
